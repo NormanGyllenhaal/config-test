@@ -1,77 +1,77 @@
 spring:
     user-write-redis:
-        host: 127.0.0.1
+        host: 101.201.199.64
         port: 6379
-        password:
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     user-read-redis1:
-        host: 127.0.0.1
+        host: 101.201.199.64
         port: 6379
-        password:
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     user-read-redis2:
-        host: 127.0.0.1
+        host: 101.201.199.64
         port: 6379
-        password:
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     live-write-redis:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6377
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     live-read-redis1:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6377
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     live-read-redis2:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6377
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     match-write-redis:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6376
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     match-read-redis1:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6376
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     match-read-redis2:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6376
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     boy-boy-write-redis:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6378
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     boy-boy-read-redis1:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6378
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     boy-boy-read-redis2:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6378
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     boy-girl-write-redis:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6375
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     boy-girl-read-redis1:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6375
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     boy-girl-read-redis2:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6375
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     pay-write-redis:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6374
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     pay-read-redis1:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6374
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     pay-read-redis2:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6374
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
     admin-redis:
-        host: 127.0.0.1
-        port: 6379
-        password:
+        host: 101.201.199.64
+        port: 6374
+        password: chfJS9ekfMZna15URdjfOWI9D8SKE8uyDxvbQWI
