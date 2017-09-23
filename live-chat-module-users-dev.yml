@@ -1,0 +1,77 @@
+spring:
+    user-write-redis:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    user-read-redis1:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    user-read-redis2:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    live-write-redis:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    live-read-redis1:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    live-read-redis2:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    match-write-redis:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    match-read-redis1:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    match-read-redis2:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    boy-boy-write-redis:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    boy-boy-read-redis1:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    boy-boy-read-redis2:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    boy-girl-write-redis:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    boy-girl-read-redis1:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    boy-girl-read-redis2:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    pay-write-redis:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    pay-read-redis1:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    pay-read-redis2:
+        host: 127.0.0.1
+        port: 6379
+        password:
+    admin-redis:
+        host: 127.0.0.1
+        port: 6379
+        password:
